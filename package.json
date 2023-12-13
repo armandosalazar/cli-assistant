@@ -1,0 +1,24 @@
+{
+  "name": "cli-assistant",
+  "version": "1.0.0",
+  "description": "CLI assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandosalazar/cli-assistant.git"
+  },
+  "keywords": [
+    "CLI",
+    "assistant",
+    "IA"
+  ],
+  "author": "Armando Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandosalazar/cli-assistant/issues"
+  },
+  "homepage": "https://github.com/armandosalazar/cli-assistant#readme"
+}
